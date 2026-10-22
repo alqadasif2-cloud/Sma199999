@@ -1,0 +1,14 @@
+{
+  "name": "sami-trading-functions",
+  "description": "Cloud Functions for Sami Trading Challenge Tracker - Server-authoritative FCM Push Notifications & Security Triggers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "18"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.0.0",
+    "firebase-functions": "^5.0.0"
+  },
+  "private": true
+}

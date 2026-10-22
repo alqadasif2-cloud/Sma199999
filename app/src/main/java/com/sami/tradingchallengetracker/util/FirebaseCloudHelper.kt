@@ -44,7 +44,7 @@ import java.util.concurrent.ConcurrentHashMap
 object FirebaseCloudHelper {
     private const val PROJECT_ID = "majestic-interface-ksmzh"
     private const val APP_ID = "1:462035009117:web:ef127abfd25d8ff2ec17b4"
-    private const val API_KEY = "AIzaSyCWSCiM0EVatqiBL5wUO8ZAfKcJHqud9dU"
+    private const val API_KEY = "AIzaSyAR7YwgIFze6BcmUm7WTCSM30crDrMSTKk"
     private const val STORAGE_BUCKET = "majestic-interface-ksmzh.firebasestorage.app"
     private const val FIRESTORE_DB_ID = "ai-studio-c1d1b606-9578-42a6-b7b2-17faaec47f72"
 
