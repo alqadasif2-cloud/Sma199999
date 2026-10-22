@@ -1,0 +1,6 @@
+{
+  "name": "Sami - متتبع رحلة التداول الشخصية",
+  "description": "تطبيق Sami الاحترافي لإدارة ومتابعة رحلة التداول الشخصية مع 150 محطة تداول، حسابات مالية دقيقة وسجل صفقات تفاعلي.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
